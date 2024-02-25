@@ -1,7 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 
 # Mac OS file
-***/.DS_Store
 .DS_Store
 
 ### Python ###
