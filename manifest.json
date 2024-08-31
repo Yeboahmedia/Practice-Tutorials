@@ -1,0 +1,11 @@
+{
+    "name": "Smile Stare",
+    "version": "1.0.0",
+    "description": "IP Address ",
+    "manifest_version": 3,
+    "author": "Kwame Yeboah",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Map Extension"
+    }
+}
