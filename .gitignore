@@ -2,7 +2,7 @@
 
 # Mac OS file
 .DS_Store
-
+node_modules/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
